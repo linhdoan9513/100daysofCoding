@@ -16,6 +16,7 @@
 |  11|  Learning React by following Udemy courses & creating a video app using utubeAPI, using React Hooks |
 |  12|  Learning Recursion and Binary Tree (ongoing) |
 |  13|  Learning React and Animation with GSAP and ScrollTrigger (ongoing) - currently within personal websites |
+|  14|  Doing Algorithms on LeetCode: https://leetcode.com/problems/maximum-units-on-a-truck (solved), https://leetcode.com/problems/two-sum (ongoing solving for O(n) time complexity|
 
 
 
