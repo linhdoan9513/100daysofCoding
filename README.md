@@ -17,7 +17,7 @@
 |  12|  Learning Recursion and Binary Tree (ongoing) 🧩|
 |  13|  Learning React and Animation with GSAP and ScrollTrigger (ongoing) - currently within personal websites 🙈|
 |  14|  Doing Algorithms on LeetCode: https://leetcode.com/problems/maximum-units-on-a-truck (solved), https://leetcode.com/problems/two-sum (ongoing solving for O(n) time complexity 🧩|
-|  14| Solved https://leetcode.com/problems/two-sum for O(n) time complexity and o(n) space complexity 🧩|
+|  15| Solved https://leetcode.com/problems/two-sum for O(n) time complexity and o(n) space complexity 🧩|
 
 
 
