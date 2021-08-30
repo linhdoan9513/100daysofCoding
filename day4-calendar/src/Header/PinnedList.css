@@ -1,0 +1,21 @@
+.bi-card-checklist {
+    color: #fccf5e;
+    font-size: 2rem;
+}
+
+h1{
+    margin: 10% auto;
+    font-size: 1.6rem;
+    font-weight: 300;
+}
+
+.bi-bookmark-star{
+    color: #fccf5e;
+    font-size: 1.6rem;
+}
+
+.bi-star,
+.bi-trash {
+    font-size: 15px;
+    margin-right: 10px;
+} 

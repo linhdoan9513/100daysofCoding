@@ -1,0 +1,154 @@
+a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,caption,center,cite,code,dd,del,details,dfn,div,dl,dt,em,embed,fieldset,figcaption,figure,footer,form,h1,h2,h3,h4,h5,h6,header,hgroup,html,i,iframe,img,ins,kbd,label,legend,li,mark,menu,nav,object,ol,output,p,pre,q,ruby,s,samp,section,small,span,strike,strong,sub,summary,sup,table,tbody,td,tfoot,th,thead,time,tr,tt,u,ul,var,video{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:after,blockquote:before,q:after,q:before{content:'';content:none}table{border-collapse:collapse;border-spacing:0}input[type=search]::-webkit-search-cancel-button,input[type=search]::-webkit-search-decoration,input[type=search]::-webkit-search-results-button,input[type=search]::-webkit-search-results-decoration{-webkit-appearance:none;-moz-appearance:none}input[type=search]{-webkit-appearance:none;-moz-appearance:none;-webkit-box-sizing:content-box;-moz-box-sizing:content-box;box-sizing:content-box}textarea{overflow:auto;vertical-align:top;resize:vertical}audio,canvas,video{display:inline-block;max-width:100%}audio:not([controls]){display:none;height:0}[hidden]{display:none}html{font-size:100%;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}a:focus{outline:thin dotted}a:active,a:hover{outline:0}img{border:0;-ms-interpolation-mode:bicubic}figure{margin:0}form{margin:0}fieldset{border:1px solid silver;margin:0 2px;padding:.35em .625em .75em}legend{border:0;padding:0;white-space:normal}button,input,select,textarea{font-size:100%;margin:0;vertical-align:baseline}button,input{line-height:normal}button,select{text-transform:none}button,html input[type=button],input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer}button[disabled],html input[disabled]{cursor:default}input[type=checkbox],input[type=radio]{box-sizing:border-box;padding:0}input[type=search]{-webkit-appearance:textfield;-moz-box-sizing:content-box;-webkit-box-sizing:content-box;box-sizing:content-box}input[type=search]::-webkit-search-cancel-button,input[type=search]::-webkit-search-decoration{-webkit-appearance:none}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}textarea{overflow:auto;vertical-align:top}table{border-collapse:collapse;border-spacing:0}button,html,input,select,textarea{color:#222}::-moz-selection{background:#b3d4fc;text-shadow:none}::selection{background:#b3d4fc;text-shadow:none}img{vertical-align:middle}fieldset{border:0;margin:0;padding:0}textarea{resize:vertical}.chromeframe{margin:.2em 0;background:#ccc;color:#000;padding:.2em 0}
+        
+.clearfix:after {visibility: hidden; display: block; font-size: 0; content: ''; clear: both; height: 0; }
+
+* { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
+
+.visuallyHidden:not(:focus):not(:active) { position: absolute; width: 1px; height: 1px; margin: -1px;border: 0;padding: 0;white-space: nowrap;clip-path: inset(100%);clip: rect(00 0 0);overflow: hidden;}
+
+body {
+    background: 
+        url(./lighthouse.jpeg), 
+        radial-gradient(rgba(249, 249, 249, 0.5),black);
+    background-size: cover;
+    background-blend-mode: saturation;
+    height: 100vh;
+    /* Photo via Unsplash by Kyaw Tun: https://unsplash.com/@kyawthutun */
+}
+
+.wrapper {
+    width:90%;
+    margin: 0 auto;
+    max-width: 1200px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+header {
+    flex: 1 0 100%;
+    margin: 20px 0;
+    text-align: center;
+}
+
+h1 {
+    font-size: 72px;
+    color: #000;
+}
+
+h1.lightOn {
+    text-shadow: 2px 0 0 #000, 0 -2px 0 #000, 0 2px 0 #000, -2px 0 0 #000;
+    color: #d1ac05;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+p {
+    font-size: 20px;
+}
+
+main, aside {
+    flex: 1 0 calc(50% - 20px);
+    padding: 10px;
+}
+
+main {
+    background-color: #b0cbe5cc;
+    margin-right: 20px;
+}
+
+main div {
+    padding: 20px 0;
+}
+
+main div:first-of-type {
+    border-bottom: 1px solid black;
+}
+
+main button {
+    text-transform: uppercase;
+    vertical-align: middle;
+    background: #eee8aa;
+    padding: 5px 15px;
+    font-size: 25px;
+    border-radius: 10px;
+    border: 1px solid transparent;
+    margin-bottom: 20px;
+}
+
+.lightSpan {
+    background: #aea9a9;
+    padding: 0 5px;
+}
+
+select {
+    text-transform: uppercase;
+    vertical-align: middle;
+    background: #eee8aa;
+    padding: 5px 15px;
+    font-size: 25px;
+    border-radius: 10px;
+    border: 1px solid transparent;
+    margin-bottom: 20px;
+}
+
+.directionSpan {
+    background: #aea9a9;
+    padding: 0 5px;
+}
+
+aside {
+    background-color: #b0cbe5cc;
+    margin-left: 20px;
+}
+
+aside li {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+aside p {
+    margin-right: 20px;
+}
+
+aside button {
+    display: inline;
+    text-transform: uppercase;
+    vertical-align: middle;
+    background: #d1ac05;
+    padding: 10px 15px;
+    font-size: 15px;
+    border-radius: 3px;
+    border: 1px solid transparent;
+}
+
+li {
+    margin: 20px 0;
+}
+
+.important p:before {
+    content: "⭐️";
+}
+
+@media only screen and (max-width: 600px) {
+  .wrapper {
+      width: 100%;
+  }
+  h1 {
+      font-size: 30px;
+  }
+  h2 {
+      font-size: 25px;
+  }
+  main button,
+  main select {
+      font-size: 18px;
+  }
+  main, 
+  aside {
+      margin: 0;
+      flex-basis: 100%;
+  }
+}
