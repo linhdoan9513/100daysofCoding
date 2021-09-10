@@ -19,6 +19,8 @@
 |  14|  Doing Algorithms on LeetCode: https://leetcode.com/problems/maximum-units-on-a-truck (solved), https://leetcode.com/problems/two-sum (ongoing solving for O(n) time complexity 🧩|
 |  15| Solved https://leetcode.com/problems/two-sum for O(n) time complexity and o(n) space complexity 🧩|
 |  16| Solved https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/ for O(n) time complexity and o(n) space complexity 🧩 && Responsive CSS HTML Websites|
+|17| Working on React Personal Websites 🧩 & Responsive PSD Design ✅ |
+|18| Solving algorithms : https://leetcode.com/problems/find-anagram-mappings/submissions/ |
 
 
 
