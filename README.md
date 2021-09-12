@@ -21,6 +21,8 @@
 |  16| Solved https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/ for O(n) time complexity and o(n) space complexity 🧩 && Responsive CSS HTML Websites|
 |17| Working on React Personal Websites 🧩 & Responsive PSD Design ✅ |
 |18| Solving algorithms : https://leetcode.com/problems/find-anagram-mappings/submissions/ |
+|19| Learning Redux on Udemy 👀 |
+
 
 
 
