@@ -22,7 +22,7 @@
 |17| Working on React Personal Websites 🧩 & Responsive PSD Design ✅ |
 |18| Solving algorithms : https://leetcode.com/problems/find-anagram-mappings/submissions/ |
 |19| Learning Redux on Udemy 👀  https://codepen.io/linhdoan9513/pen/OJggVgm?editors=0010|
-|18| Solving algorithms : https://leetcode.com/problems/find-greatest-common-divisor-of-array/|
+|20| Solving algorithms : https://leetcode.com/problems/find-greatest-common-divisor-of-array/|
 
 
 
