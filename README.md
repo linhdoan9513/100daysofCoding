@@ -20,10 +20,10 @@
 |  15| Solved https://leetcode.com/problems/two-sum for O(n) time complexity and o(n) space complexity 🧩|
 |  16| Solved https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/ for O(n) time complexity and o(n) space complexity 🧩 && Responsive CSS HTML Websites|
 |17| Working on React Personal Websites 🧩 & Responsive PSD Design ✅ |
-|18| Solving algorithms : https://leetcode.com/problems/find-anagram-mappings/submissions/ |
-|19| Learning Redux on Udemy 👀  https://codepen.io/linhdoan9513/pen/OJggVgm?editors=0010|
-|20| Solving algorithms : https://leetcode.com/problems/find-greatest-common-divisor-of-array/|
-|21| Updated NavBar on Personal Websites using React and styled components|
+|18| Solving algorithms : https://leetcode.com/problems/find-anagram-mappings/submissions/ 🧩 |
+|19| Learning Redux on Udemy 👀  https://codepen.io/linhdoan9513/pen/OJggVgm?editors=0010 🧩|
+|20| Solving algorithms : https://leetcode.com/problems/find-greatest-common-divisor-of-array/ 🧩|
+|21| Updated NavBar on Personal Websites using React and styled components ❤︎|
 
 
 
