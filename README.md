@@ -24,6 +24,7 @@
 |19| Learning Redux on Udemy 👀  https://codepen.io/linhdoan9513/pen/OJggVgm?editors=0010 🧩|
 |20| Solving algorithms : https://leetcode.com/problems/find-greatest-common-divisor-of-array/ 🧩|
 |21| Updated NavBar on Personal Websites using React and styled components ❤︎|
+|22| Built an image carousel 🖼|
 
 
 
