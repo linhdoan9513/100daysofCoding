@@ -26,7 +26,7 @@
 |21| Updated NavBar on Personal Websites using React and styled components ❤︎|
 |22| Built an image carousel 🖼|
 |23-24| Working on covidTracker using Vanilla JS |
-|25| Working on covidTracker and leetcode algorithms|
+|25| Working on covidTracker and leetcode algorithms https://leetcode.com/problems/intersection-of-three-sorted-arrays/ 🧩|
 
 
 
