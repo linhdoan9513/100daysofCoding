@@ -27,6 +27,8 @@
 |22| Built an image carousel 🖼|
 |23-24| Working on covidTracker using Vanilla JS |
 |25| Working on covidTracker and leetcode algorithms https://leetcode.com/problems/intersection-of-three-sorted-arrays/ 🧩|
+|26| Working on covidTracker and personal portfolio 🙈|
+
 
 
 
