@@ -29,6 +29,8 @@
 |25| Working on covidTracker and leetcode algorithms https://leetcode.com/problems/intersection-of-three-sorted-arrays/ 🧩|
 |26| Working on covidTracker and personal portfolio 🙈|
 |27| Implementing interactive map on covidTracker  🙈|
+|28| Working on budget app using FireBase|
+|29| Solved leetcode algorithms: https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/ - (ongoing for O(n))
 
 
 
