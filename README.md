@@ -32,6 +32,7 @@
 |28| Working on budget app using FireBase|
 |29| Solved leetcode algorithms: https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/ - (ongoing for O(n))
 |30| Working on budgetApp using Firebase and React 💵|
+|31| Working on budgetApp using Firebase and React 💵|
 
 
 
