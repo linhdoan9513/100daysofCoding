@@ -34,6 +34,9 @@
 |30| Working on budgetApp using Firebase and React 💵|
 |31| Working on budgetApp using Firebase and React 💵|
 |32 - 34| Working on movieDB using Firebase and movieDBAPI 💵|
+|34-38| Working on personal portfolios|
+|38 - 45| Doing algorithms on leetcode|
+|46| Studying reducer redux |
 
 
 
