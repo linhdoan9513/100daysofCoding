@@ -37,6 +37,7 @@
 |34-38| Working on personal portfolios 🧩|
 |38 - 45| Doing algorithms on leetcode 🧩|
 |46| Studying reducer redux 🧩|
+|47| Studying front end system design: https://pietropassarelli.com/front-end-system-design.html🧩|
 
 
 
