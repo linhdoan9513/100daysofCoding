@@ -39,3 +39,4 @@
 | 47      | Studying front end system design: https://pietropassarelli.com/front-end-system-design.html🧩                                                                                     |
 | 48      | Studying Typescript 🧩                                                                                                                                                            |
 | 49      | Studying Typescript 🧩                                                                                                                                                            |
+| 50      | Studying Typescript 🧩                                                                                                                                                            |
