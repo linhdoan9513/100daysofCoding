@@ -41,3 +41,4 @@
 | 49      | Studying Typescript 🧩                                                                                                                                                            |
 | 50      | Studying Typescript 🧩                                                                                                                                                            |
 | 51      | Studying Redux Thunk🧩                                                                                                                                                            |
+| 52      | Studying Redux Thunk🧩                                                                                                                                                            |
