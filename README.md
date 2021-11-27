@@ -43,3 +43,5 @@
 | 51      | Studying Redux Thunk🧩                                                                                                                                                            |
 | 52      | Studying Redux Thunk🧩                                                                                                                                                            |
 | 53      | Studying Redux Form🧩                                                                                                                                                             |
+| 54      | Studying GraphQL🧩                                                                                                                                                                |
+| 55      | Studying GraphQL🧩                                                                                                                                                                |
